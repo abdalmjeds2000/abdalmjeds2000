@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdalmjed_skaik
-- 👀 I’m interested in Graphic & Web Design
-- 🌱 I’m currently learning ReactJS & React Native
+- 👀 I’m interested in Graphics & Web Design
+- 🌱 I’m currently learning Javascrip & ReactJS.
 - 📫 How to reach me -facebook,twitter,whatsapp-
 
 <!---
