@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abdalmjed_skaik
-- 👀 I’m interested in Graphics & Web Design
-- 🌱 I’m currently learning Javascrip & ReactJS.
-- 📫 How to reach me -facebook,twitter,whatsapp-
+- 👋 Hi, I’m @abdalmjed_skaik.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning ReactJS.
+- 📫 How to reach me -twitter,whatsapp-
 
 <!---
 abdalmjeds2000/abdalmjeds2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
